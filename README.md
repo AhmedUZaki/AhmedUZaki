@@ -3,8 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeduzaki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeduzaki" /> </p>
 
-<p align="center"> <a href="https://twitter.com/ahmeduzaki" target="blank"><img src="https://img.shields.io/twitter/follow/ahmeduzaki?logo=twitter&style=for-the-badge" alt="ahmeduzaki" /></a> </p>
-
 - 🌱 I’m currently learning **Communication Engineering / Artificial intelligence**.
 
 - 📫 How to reach me **AhmedUZaki@gmail.com**
