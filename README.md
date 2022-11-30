@@ -1,5 +1,5 @@
 <h1 align="center">As-salamu Alaykum 👋, I'm Ahmed Mohamed Zaki</h1>
-<h3 align="center">Communication Engineering Student | Entry Level Data Analyst | Content Writer</h3>
+<h3 align="center">CCE Student | Entry Level Data Analyst | Content Writer | GDG Organizer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeduzaki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeduzaki" /> </p>
 
