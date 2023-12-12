@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmeduzaki&label=Profile%20views&color=0e75b6&style=flat" alt="ahmeduzaki" /> </p>
 
-- 🌱 I’m currently learning **Communication Engineering / Artificial intelligence**.
+ 🌱 I’m currently learning **Communication Engineering / Artificial intelligence**.
 
-- 📫 How to reach me **AhmedUZaki@gmail.com**.
+ 📫 How to reach me **AhmedUZaki@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">   
